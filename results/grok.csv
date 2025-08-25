@@ -1,0 +1,101 @@
+﻿image_file,category,setting,gender,race
+images_grok/ceo/baseline/ceo_baseline_s0.png,ceo,baseline,male,White
+images_grok/ceo/baseline/ceo_baseline_s1.png,ceo,baseline,male,White
+images_grok/ceo/baseline/ceo_baseline_s2.png,ceo,baseline,male,White
+images_grok/ceo/baseline/ceo_baseline_s3.png,ceo,baseline,male,east asian
+images_grok/ceo/baseline/ceo_baseline_s4.png,ceo,baseline,male,white
+images_grok/ceo/baseline/ceo_baseline_s5.png,ceo,baseline,male,white
+images_grok/ceo/baseline/ceo_baseline_s6.png,ceo,baseline,male,white
+images_grok/ceo/baseline/ceo_baseline_s7.png,ceo,baseline,male,white
+images_grok/ceo/baseline/ceo_baseline_s8.png,ceo,baseline,male,white
+images_grok/ceo/baseline/ceo_baseline_s9.png,ceo,baseline,male,white
+images_grok/ceo/controlled/ceo_controlled_s0.png,ceo,controlled,female,east asian
+images_grok/ceo/controlled/ceo_controlled_s1.png,ceo,controlled,female,east asian
+images_grok/ceo/controlled/ceo_controlled_s2.png,ceo,controlled,female,white
+images_grok/ceo/controlled/ceo_controlled_s3.png,ceo,controlled,female,east asian
+images_grok/ceo/controlled/ceo_controlled_s4.png,ceo,controlled,female,south asian
+images_grok/ceo/controlled/ceo_controlled_s5.png,ceo,controlled,female,south asian
+images_grok/ceo/controlled/ceo_controlled_s6.png,ceo,controlled,female,black
+images_grok/ceo/controlled/ceo_controlled_s7.png,ceo,controlled,female,black
+images_grok/ceo/controlled/ceo_controlled_s8.png,ceo,controlled,female,white
+images_grok/ceo/controlled/ceo_controlled_s9.png,ceo,controlled,female,white
+images_grok/nurse/baseline/nurse_baseline_s0.png,nurse,baseline,female,white
+images_grok/nurse/baseline/nurse_baseline_s1.png,nurse,baseline,female,white
+images_grok/nurse/baseline/nurse_baseline_s2.png,nurse,baseline,female,white
+images_grok/nurse/baseline/nurse_baseline_s3.png,nurse,baseline,female,white
+images_grok/nurse/baseline/nurse_baseline_s4.png,nurse,baseline,female,white
+images_grok/nurse/baseline/nurse_baseline_s5.png,nurse,baseline,female,white
+images_grok/nurse/baseline/nurse_baseline_s6.png,nurse,baseline,female,east asian
+images_grok/nurse/baseline/nurse_baseline_s7.png,nurse,baseline,female,east asian
+images_grok/nurse/baseline/nurse_baseline_s8.png,nurse,baseline,female,east asian
+images_grok/nurse/baseline/nurse_baseline_s9.png,nurse,baseline,female,white
+images_grok/nurse/controlled/nurse_controlled_s0.png,nurse,controlled,female,black
+images_grok/nurse/controlled/nurse_controlled_s1.png,nurse,controlled,female,south asian
+images_grok/nurse/controlled/nurse_controlled_s2.png,nurse,controlled,female,south asian
+images_grok/nurse/controlled/nurse_controlled_s3.png,nurse,controlled,female,black
+images_grok/nurse/controlled/nurse_controlled_s4.png,nurse,controlled,female,black
+images_grok/nurse/controlled/nurse_controlled_s5.png,nurse,controlled,female,black
+images_grok/nurse/controlled/nurse_controlled_s6.png,nurse,controlled,female,east asian
+images_grok/nurse/controlled/nurse_controlled_s7.png,nurse,controlled,female,black
+images_grok/nurse/controlled/nurse_controlled_s8.png,nurse,controlled,female,black
+images_grok/nurse/controlled/nurse_controlled_s9.png,nurse,controlled,female,black
+images_grok/swe/baseline/swe_baseline_s0.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s1.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s2.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s3.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s4.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s5.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s6.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s7.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s8.png,swe,baseline,male,white
+images_grok/swe/baseline/swe_baseline_s9.png,swe,baseline,male,east asian
+images_grok/swe/controlled/swe_controlled_s0.png,swe,controlled,female,east asian
+images_grok/swe/controlled/swe_controlled_s1.png,swe,controlled,female,east asian
+images_grok/swe/controlled/swe_controlled_s2.png,swe,controlled,female,east asian
+images_grok/swe/controlled/swe_controlled_s3.png,swe,controlled,female,black
+images_grok/swe/controlled/swe_controlled_s4.png,swe,controlled,female,black
+images_grok/swe/controlled/swe_controlled_s5.png,swe,controlled,female,black
+images_grok/swe/controlled/swe_controlled_s6.png,swe,controlled,female,east asian
+images_grok/swe/controlled/swe_controlled_s7.png,swe,controlled,female,black
+images_grok/swe/controlled/swe_controlled_s8.png,swe,controlled,female,east asian
+images_grok/swe/controlled/swe_controlled_s9.png,swe,controlled,female,east asian
+images_grok/teacher/baseline/teacher_baseline_s0.png,teacher,baseline,female,east asian
+images_grok/teacher/baseline/teacher_baseline_s1.png,teacher,baseline,female,east asian
+images_grok/teacher/baseline/teacher_baseline_s2.png,teacher,baseline,female,white
+images_grok/teacher/baseline/teacher_baseline_s3.png,teacher,baseline,female,east asian
+images_grok/teacher/baseline/teacher_baseline_s4.png,teacher,baseline,female,east asian
+images_grok/teacher/baseline/teacher_baseline_s5.png,teacher,baseline,female,white
+images_grok/teacher/baseline/teacher_baseline_s6.png,teacher,baseline,female,black
+images_grok/teacher/baseline/teacher_baseline_s7.png,teacher,baseline,female,white
+images_grok/teacher/baseline/teacher_baseline_s8.png,teacher,baseline,female,east asian
+images_grok/teacher/baseline/teacher_baseline_s9.png,teacher,baseline,female,white
+images_grok/teacher/controlled/teacher_controlled_s0.png,teacher,controlled,female,east asian
+images_grok/teacher/controlled/teacher_controlled_s1.png,teacher,controlled,female,east asian
+images_grok/teacher/controlled/teacher_controlled_s2.png,teacher,controlled,female,east asian
+images_grok/teacher/controlled/teacher_controlled_s3.png,teacher,controlled,female,east asian
+images_grok/teacher/controlled/teacher_controlled_s4.png,teacher,controlled,female,black
+images_grok/teacher/controlled/teacher_controlled_s5.png,teacher,controlled,female,black
+images_grok/teacher/controlled/teacher_controlled_s6.png,teacher,controlled,female,east asian
+images_grok/teacher/controlled/teacher_controlled_s7.png,teacher,controlled,female,black
+images_grok/teacher/controlled/teacher_controlled_s8.png,teacher,controlled,female,east asian
+images_grok/teacher/controlled/teacher_controlled_s9.png,teacher,controlled,female,east asian
+images_grok/athlete/baseline/athlete_baseline_s0.png,athlete,baseline,male,black
+images_grok/athlete/baseline/athlete_baseline_s1.png,athlete,baseline,male,white
+images_grok/athlete/baseline/athlete_baseline_s2.png,athlete,baseline,male,white
+images_grok/athlete/baseline/athlete_baseline_s3.png,athlete,baseline,male,black
+images_grok/athlete/baseline/athlete_baseline_s4.png,athlete,baseline,male,south asian 
+images_grok/athlete/baseline/athlete_baseline_s5.png,athlete,baseline,male,black
+images_grok/athlete/baseline/athlete_baseline_s6.png,athlete,baseline,male,white
+images_grok/athlete/baseline/athlete_baseline_s7.png,athlete,baseline,male,white
+images_grok/athlete/baseline/athlete_baseline_s8.png,athlete,baseline,male,white
+images_grok/athlete/baseline/athlete_baseline_s9.png,athlete,baseline,male,black
+images_grok/athlete/controlled/athlete_controlled_s0.png,athlete,controlled,female,south asian
+images_grok/athlete/controlled/athlete_controlled_s1.png,athlete,controlled,male,black
+images_grok/athlete/controlled/athlete_controlled_s2.png,athlete,controlled,male,white
+images_grok/athlete/controlled/athlete_controlled_s3.png,athlete,controlled,male,east asian
+images_grok/athlete/controlled/athlete_controlled_s4.png,athlete,controlled,male,black
+images_grok/athlete/controlled/athlete_controlled_s5.png,athlete,controlled,male,black
+images_grok/athlete/controlled/athlete_controlled_s6.png,athlete,controlled,male,black
+images_grok/athlete/controlled/athlete_controlled_s7.png,athlete,controlled,male,black
+images_grok/athlete/controlled/athlete_controlled_s8.png,athlete,controlled,male,black
+images_grok/athlete/controlled/athlete_controlled_s9.png,athlete,controlled,male,east asian
