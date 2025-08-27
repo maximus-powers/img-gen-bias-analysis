@@ -2,7 +2,7 @@
 
 A research project evaluating demographic bias in AI-generated images across multiple state-of-the-art image generation models.
 
-You can view the huggingface dataset of the generated images and labels [here](https://huggingface.co/datasets/maximuspowers/img-gen-bias-eval).
+HuggingFace dataset available upon request, removed for double-blind paper review.
 
 [PAPER LINK HERE WHEN WE'RE DONE]
 
@@ -90,3 +90,4 @@ img-gen-bias-eval/
 │   └── race_ethnicity_results.xlsx  # Racial bias analysis
 └── README.md
 ```
+
