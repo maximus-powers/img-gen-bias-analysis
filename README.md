@@ -2,10 +2,6 @@
 
 A research project evaluating demographic bias in AI-generated images across multiple state-of-the-art image generation models.
 
-HuggingFace dataset available upon request, removed for double-blind paper review.
-
-[PAPER LINK HERE WHEN WE'RE DONE]
-
 ## Overview
 
 This study examines how different AI image generation models represent gender and racial/ethnic diversity across five professional occupations. The research compares baseline prompts (simple occupational descriptions) against controlled prompts (explicitly requesting demographic diversity) to measure bias patterns.
